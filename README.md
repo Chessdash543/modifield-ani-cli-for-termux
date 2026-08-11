@@ -7,7 +7,7 @@ this ani-cli use the app vlc of Android, is more to use the ani-cli, this is for
 2. Just Run This comands
 ```bash
 pkg update && pkg install git
-git clone https://github.com/modifield-ani-cli-for-termux
+git clone https://github.com/Chessdash543/modifield-ani-cli-for-termux.git
 cd modifield-ani-cli-for-termux/
 chmod +x ani-cli
 chmod +x vlc-android
