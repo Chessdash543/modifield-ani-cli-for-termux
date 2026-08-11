@@ -1,0 +1,6 @@
+#!/data/data/com.termux/files/usr/bin/sh
+
+am start \
+  -a android.intent.action.VIEW \
+  -d "$1" \
+  -n org.videolan.vlc/.StartActivity
